@@ -5,9 +5,11 @@
 Write a Java program to create an inner class and access it from the outer class.
 
 Input
+<br>
 Manoj
 <br>
 Result
+<br>
 Hello, Manoj! This message is from the Inner Class.
 
 ## AIM:
@@ -63,5 +65,6 @@ class prog {
 ## RESULT:
 
 Thus, the Java program demonstrating the use of an inner class and accessing it through the outer class was successfully executed.
+
 
 
