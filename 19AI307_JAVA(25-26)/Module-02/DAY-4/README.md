@@ -25,8 +25,8 @@ To write a Java program that demonstrates the use of a parameterized constructor
 ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: 
-RegisterNumber:  
+Developed by: H AARON
+RegisterNumber:  212223040001
 */
 ```
 
@@ -68,3 +68,4 @@ class prog {
 Thus, the Java program to demonstrate a parameterized constructor was successfully executed.
 
 ---
+
